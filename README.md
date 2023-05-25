@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman Singh Gaharwar</h1>
 <h3 align="center">A Flutter developer from Surat, Gujarat, India</h3>
 
-<img align="right" width="200" src="https://github.com/MrToxicDeveloper/MrToxicDeveloper/assets/119030630/dec2f018-085c-4b83-a185-2852c7e251f2">
+<img align="right" width="400" src="https://github.com/MrToxicDeveloper/MrToxicDeveloper/assets/119030630/dec2f018-085c-4b83-a185-2852c7e251f2">
 
 
 
