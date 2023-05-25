@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayushman Singh Gaharwar</h1>
 <h3 align="center">A Flutter developer from Surat, Gujarat, India</h3>
 
-<img align="right" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Froszkowski.dev%2F2020%2Fflutter-animated-logo%2F&psig=AOvVaw0nsuwhSoCvtqQTn1Bxmc99&ust=1685084309485000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjPm6_yj_8CFQAAAAAdAAAAABAZ">
+<img align="right" width="200" src="https://github.com/MrToxicDeveloper/MrToxicDeveloper/assets/119030630/dec2f018-085c-4b83-a185-2852c7e251f2">
+
+
 
 - 🌱 I’m currently learning **Flutter app development**
 
